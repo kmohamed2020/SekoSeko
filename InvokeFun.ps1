@@ -12,5 +12,4 @@ function InvokeFun{
 	Write-Host "Fired!!"
 	InvokeFun1
 }
-
-InvokeFun
+Write-Host "Fired!!"
