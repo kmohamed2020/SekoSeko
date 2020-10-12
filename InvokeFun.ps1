@@ -10,3 +10,7 @@ function InvokeFun{
 	InvokeFun0
 	InvokeFun1
 }
+
+InvokeFun0
+
+
