@@ -1,5 +1,5 @@
 ﻿function Get-Fun0 {
-	write-host "Test"
+	write-host "Test";
 }
 
 function Get-Fun1 {
